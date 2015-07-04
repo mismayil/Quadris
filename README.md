@@ -1,11 +1,11 @@
 Quadris
 =======
 
-Non-real time version of Tetris.
+Non-real time version of Tetris.<br>
 
-Run make to build and ./quadris to start the game.
+Run make to build and ./quadris to start the game.<br>
 
-Options:
+Options:<br>
   -text               no graphics, only text display
   -seed n             seed to generate random blocks
   -scriptfile file    file to read order of blocks from (default: sequence.txt)
