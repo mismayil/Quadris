@@ -16,21 +16,21 @@ Options:<br>
   level of the game to start<br>
   
 Commands:<br>
-  <num>left<br>              
+  <num>left<br>
   move the block to the left <num> times<br>
-  <num>right<br>                
+  <num>right<br>
   move the block to the right <num> times<br>
-  <num>down<br>                 
+  <num>down<br>
   move the block down <num> times<br>
-  <num>drop<br>                 
+  <num>drop<br>
   drop <num> next blocks<br>
-  <num>clockwise<br>            
+  <num>clockwise<br>
   turn the block clockwise <num> times<br>
-  <num>counterclockwise<br>     
+  <num>counterclockwise<br>
   turn the block counterclockwise <num> times<br>
-  <num>levelup<br>              
+  <num>levelup<br>
   increase the level of the game to <num><br>
-  <num>leveldown<br>            
+  <num>leveldown<br>
   decrease the level of the game to <num><br>
-  restart<br>                   
+  restart<br>
   restart the game<br>
