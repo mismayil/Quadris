@@ -6,7 +6,7 @@ Non-real time version of Tetris.<br>
 Run make to build and ./quadris to start the game.<br>
 
 Options:<br>
-  -text               no graphics, only text display
+  -text_______________no graphics, only text display
   -seed n             seed to generate random blocks
   -scriptfile file    file to read order of blocks from (default: sequence.txt)
   -startlevel l       level of the game to start
